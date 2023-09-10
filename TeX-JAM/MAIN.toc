@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Bead on a rotating wire}{2}{section.1}%
+\contentsline {subsection}{\numberline {A}}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {B}}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {C}}{2}{subsection.1.3}%
+\contentsline {subsection}{\numberline {D}}{2}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Brachistochrone}{2}{section.2}%
+\contentsline {subsection}{\numberline {A}}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {B}}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}A sneaky recipe for the Noether charge}{2}{section.3}%
+\contentsline {subsection}{\numberline {A}}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {B}}{2}{subsection.3.2}%
+\contentsline {subsection}{\numberline {C}}{2}{subsection.3.3}%
+\contentsline {subsection}{\numberline {D}}{2}{subsection.3.4}%
