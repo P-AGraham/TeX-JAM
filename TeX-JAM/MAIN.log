@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.9)  10 SEP 2023 18:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.9)  12 SEP 2023 10:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -23,12 +23,6 @@ File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks17
-\inpenc@posthook=\toks18
-) (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (page_format.sty (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip50
@@ -38,7 +32,7 @@ For additional information on amsmath, use the `?' option.
 Package: amstext 2021/08/26 v2.01 AMS text
  (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks19
+\@emptytoks=\toks17
 \ex@=\dimen141
 )) (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
@@ -76,39 +70,39 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \dotsspace@=\muskip16
 \c@parentequation=\count266
 \dspbrk@lvl=\count267
-\tag@help=\toks20
+\tag@help=\toks18
 \row@=\count268
 \column@=\count269
 \maxfields@=\count270
-\andhelp@=\toks21
+\andhelp@=\toks19
 \eqnshift@=\dimen144
 \alignsep@=\dimen145
 \tagshift@=\dimen146
 \tagwidth@=\dimen147
 \totwidth@=\dimen148
 \lineht@=\dimen149
-\@envbody=\toks22
+\@envbody=\toks20
 \multlinegap=\skip51
 \multlinetaggap=\skip52
-\mathdisplay@stack=\toks23
+\mathdisplay@stack=\toks21
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 ) (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks24
-\thm@bodyfont=\toks25
-\thm@headfont=\toks26
-\thm@notefont=\toks27
-\thm@headpunct=\toks28
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
 \thm@preskip=\skip53
 \thm@postskip=\skip54
 \thm@headsep=\skip55
-\dth@everypar=\toks29
+\dth@everypar=\toks27
 ) (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
  (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks30
+\KV@toks@=\toks28
 ) (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
  (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
@@ -125,9 +119,9 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ) (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count271
-\float@exts=\toks31
+\float@exts=\toks29
 \float@box=\box53
-\@float@everytoks=\toks32
+\@float@everytoks=\toks30
 \@floatcapt=\box54
 ) (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
@@ -150,12 +144,12 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks33
+\@enLab=\toks31
 ) (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip56
 \enit@outerparindent=\dimen152
-\enit@toks=\toks34
+\enit@toks=\toks32
 \enit@inbox=\box55
 \enit@count@id=\count272
 \enitdp@description=\count273
@@ -179,13 +173,13 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutheight=\dimen158
 \Gm@layouthoffset=\dimen159
 \Gm@layoutvoffset=\dimen160
-\Gm@dimlist=\toks35
+\Gm@dimlist=\toks33
  (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
 \wrapoverhang=\dimen161
 \WF@size=\dimen162
 \c@WF@wrappedlines=\count277
 \WF@box=\box56
-\WF@everypar=\toks36
+\WF@everypar=\toks34
 Package: wrapfig 2003/01/31  v 3.6
 ) (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign\mathdesign.sty
 Package: mathdesign 2013/08/29 v2.31 Math Design Project
@@ -306,25 +300,25 @@ LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> OMX/mdbch/b/n on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/mdbch/m/n --> T1/mdbch/m/n on input line 131.
+(Font)                  OT1/mdbch/m/n --> OT1/mdbch/m/n on input line 131.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/mdbch/b/n on input line 132.
+(Font)                  OT1/cmr/bx/n --> OT1/mdbch/b/n on input line 132.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/mdbch/m/it on input line 133.
+(Font)                  OT1/cmr/m/it --> OT1/mdbch/m/it on input line 133.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 134.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 134.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 135.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 135.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/mdbch/b/n --> T1/mdbch/b/n on input line 137.
+(Font)                  OT1/mdbch/b/n --> OT1/mdbch/b/n on input line 137.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/mdbch/b/n on input line 138.
+(Font)                  OT1/cmr/bx/n --> OT1/mdbch/b/n on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/mdbch/b/it on input line 139.
+(Font)                  OT1/cmr/bx/it --> OT1/mdbch/b/it on input line 139.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/b/n on input line 140.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/b/n on input line 140.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/b/n on input line 141.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 141.
 \symlettersupright=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `lettersupright' in version `bold'
 (Font)                  OML/mdbch/m/n --> OML/mdbch/b/n on input line 144.
@@ -334,17 +328,17 @@ LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `normal'
  (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
  (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks37
-\XKV@tempa@toks=\toks38
+\XKV@toks=\toks35
+\XKV@tempa@toks=\toks36
 )
 \XKV@depth=\count278
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-LaTeX Font Info:    Trying to load font information for T1+mdbch on input line 186.
- (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign/mdbch\t1mdbch.fd
-File: t1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for T1/mdbch.
+LaTeX Font Info:    Trying to load font information for OT1+mdbch on input line 186.
+ (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign/mdbch\ot1mdbch.fd
+File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
 )
-LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
 (Font)              scaled to size 11.52008pt on input line 186.
 LaTeX Font Info:    Redeclaring math accent \widetilde on input line 449.
 LaTeX Font Info:    Redeclaring math accent \widehat on input line 450.
@@ -363,6 +357,12 @@ LaTeX Font Info:    Redeclaring math accent \widehat on input line 533.
 \rulethickness=\skip57
 ) (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+mdbch on input line 112.
+ (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign/mdbch\t1mdbch.fd
+File: t1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for T1/mdbch.
+)
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 112.
 )) (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
 Package: bm 2022/01/05 v1.2f Bold Symbol Support (DPC/FMi)
 ) (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
@@ -372,7 +372,11 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 LaTeX Font Info:    Overwriting symbol font `cmsymbols' in version `bold'
 (Font)                  OMS/cmsy/m/n --> OMS/cmsy/b/n on input line 30.
 LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 31.
- (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/tools\layout.sty
+ (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks37
+\inpenc@posthook=\toks38
+) (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/tools\layout.sty
 Package: layout 2021-03-10 v1.2e Show layout parameters
 \oneinch=\count279
 \cnt@paperwidth=\count280
@@ -728,7 +732,8 @@ Package hyperref Info: Option `breaklinks' set `true' on input line 63.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 63.
  (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/07/31 v3.6n Customizing captions (AR)
- (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+
+(C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen275
 \captionmargin=\dimen276
@@ -751,8 +756,7 @@ Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count349
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count350
-)
-(C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+) (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen283
 \ar@mcellbox=\box68
@@ -1041,18 +1045,12 @@ Package: `feyn' 0.4.3 <2022/07/20>
 \symfeynman=\mathgroup11
 \symtextfeynman=\mathgroup12
 \symfeynmanextended=\mathgroup13
-LaTeX Font Info:    Trying to load font information for OT1+mdbch on input line 103.
-(C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign/mdbch\ot1mdbch.fd
-File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
-)
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 103.
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
 (Font)              scaled to size 7.68005pt on input line 103.
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
 (Font)              scaled to size 5.76004pt on input line 103.
 LaTeX Font Info:    Trying to load font information for OML+mdbch on input line 103.
- (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign/mdbch\omlmdbch.fd
+(C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign/mdbch\omlmdbch.fd
 File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
 )
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
@@ -1348,38 +1346,38 @@ Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
  (MAIN.aux)
 \openout1 = `MAIN.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 43.
-LaTeX Font Info:    Trying to load font information for MDA+cmr on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 42.
+LaTeX Font Info:    Trying to load font information for MDA+cmr on input line 42.
  (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign\mdacmr.fd
 File: mdacmr.fd 
 )
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 43.
-LaTeX Font Info:    Trying to load font information for MDB+cmr on input line 43.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 42.
+LaTeX Font Info:    Trying to load font information for MDB+cmr on input line 42.
  (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign\mdbcmr.fd
 File: mdbcmr.fd 
 )
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 43.
+(Font)              scaled to size 9.60007pt on input line 42.
  (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count508
@@ -1434,9 +1432,9 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Package todonotes Warning: The length marginparwidth is less than 2cm and will most likely cause issues with the appearance of inserted todonotes. The issue can be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to loading the todonotes package. on input line 43.
+Package todonotes Warning: The length marginparwidth is less than 2cm and will most likely cause issues with the appearance of inserted todonotes. The issue can be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to loading the todonotes package. on input line 42.
 
-Package hyperref Info: Link coloring ON on input line 43.
+Package hyperref Info: Link coloring ON on input line 42.
 (MAIN.out) (MAIN.out)
 \@outlinefile=\write5
 \openout5 = `MAIN.out'.
@@ -1459,21 +1457,21 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'MAIN.bbl' found.
  (MAIN.bbl)
-Package biblatex Info: Reference section=0 on input line 43.
-Package biblatex Info: Reference segment=0 on input line 43.
+Package biblatex Info: Reference section=0 on input line 42.
+Package biblatex Info: Reference segment=0 on input line 42.
 LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
-(Font)              scaled to size 11.52008pt on input line 46.
+(Font)              scaled to size 11.52008pt on input line 45.
 LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
-(Font)              scaled to size 16.58891pt on input line 46.
+(Font)              scaled to size 16.58891pt on input line 45.
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
-(Font)              scaled to size 11.52008pt on input line 46.
+(Font)              scaled to size 11.52008pt on input line 45.
  [1
 
 {C:/Users/pgraham1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ly1/texnansi.enc}]
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 23.88496pt on input line 49.
+(Font)              scaled to size 23.88496pt on input line 48.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 23.88496pt on input line 49.
+(Font)              scaled to size 23.88496pt on input line 48.
  (MAIN.toc
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 9.60007pt on input line 1.
@@ -1527,38 +1525,50 @@ LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.49 \maketableofcontents
+l.48 \maketableofcontents
                           [1]
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 13.82408pt on input line 53.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 13.82408pt on input line 53.
- [2]
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 57.
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 57.
+
+
+pdfTeX warning: pdflatex (file ./figures/Ueff.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figures/Ueff.pdf, id=82, 227.85126pt x 193.72375pt>
+File: figures/Ueff.pdf Graphic file (type pdf)
+<use figures/Ueff.pdf>
+Package pdftex.def Info: figures/Ueff.pdf  used on input line 94.
+(pdftex.def)             Requested size: 187.89912pt x 159.75902pt.
+[2] [3 <./figures/Ueff.pdf>] [4] [5] [6]
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
-(Font)              scaled to size 9.60007pt on input line 78.
- [3] [1] (MAIN.aux)
+(Font)              scaled to size 9.60007pt on input line 163.
+ [7] (MAIN.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `MAIN.out' has not changed.
-(rerunfilecheck)             Checksum: C437960F24ACA4583940A0E3D3E88080;1020.
+(rerunfilecheck)             Checksum: 90F87C4C94FFA06AC6A8860F6EB364B5;2233.
 Package logreq Info: Writing requests to 'MAIN.run.xml'.
 \openout1 = `MAIN.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48435 strings out of 475248
- 1102070 string characters out of 5756398
- 1970305 words of memory out of 5000000
- 69138 multiletter control sequences out of 15000+600000
- 615193 words of font info for 136 fonts, out of 8000000 for 9000
+ 48468 strings out of 475248
+ 1102502 string characters out of 5756398
+ 1982285 words of memory out of 5000000
+ 69155 multiletter control sequences out of 15000+600000
+ 623266 words of font info for 153 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 114i,8n,131p,820b,1164s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/mathdesign/mdbch/md-chr8t.pfb>
-Output written on MAIN.pdf (5 pages, 56937 bytes).
+ 114i,17n,131p,820b,1162s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\pgraham1\AppData\Local\MiKTeX\fonts/pk/ljfour/public/esint/dpi600\esint10.pk><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/mathdesign/mdbch/md-chr7t.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/mathdesign/mdbch/md-chr7v.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/mathdesign/mdbch/md-chr7y.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/mathdesign/mdbch/md-chr8t.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/mathdesign/mdbch/md-chri7m.pfb>
+Output written on MAIN.pdf (8 pages, 133131 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
- 117 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 179 PDF objects out of 1000 (max. 8388607)
+ 22 named destinations out of 1000 (max. 500000)
+ 122 words of extra memory for PDF output out of 10000 (max. 10000000)
 
