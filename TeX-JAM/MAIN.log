@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.9)  12 SEP 2023 22:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.9)  13 SEP 2023 23:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -9,8 +9,8 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+(C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -339,7 +339,7 @@ LaTeX Font Info:    Trying to load font information for OT1+mdbch on input line 
 File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
 )
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 186.
+(Font)              scaled to size 9.60007pt on input line 186.
 LaTeX Font Info:    Redeclaring math accent \widetilde on input line 449.
 LaTeX Font Info:    Redeclaring math accent \widehat on input line 450.
 Now handling font encoding MDA ...
@@ -362,7 +362,7 @@ LaTeX Font Info:    Trying to load font information for T1+mdbch on input line 1
 File: t1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for T1/mdbch.
 )
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 112.
+(Font)              scaled to size 9.60007pt on input line 112.
 )) (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
 Package: bm 2022/01/05 v1.2f Bold Symbol Support (DPC/FMi)
 ) (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
@@ -1046,65 +1046,65 @@ Package: `feyn' 0.4.3 <2022/07/20>
 \symtextfeynman=\mathgroup12
 \symfeynmanextended=\mathgroup13
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 103.
+(Font)              scaled to size 6.72005pt on input line 103.
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 103.
+(Font)              scaled to size 4.80003pt on input line 103.
 LaTeX Font Info:    Trying to load font information for OML+mdbch on input line 103.
 (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign/mdbch\omlmdbch.fd
 File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
 )
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 11.52008pt on input line 103.
+(Font)              scaled to size 9.60007pt on input line 103.
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 7.68005pt on input line 103.
+(Font)              scaled to size 6.72005pt on input line 103.
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 5.76004pt on input line 103.
+(Font)              scaled to size 4.80003pt on input line 103.
 LaTeX Font Info:    Trying to load font information for OMS+mdbch on input line 103.
  (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign/mdbch\omsmdbch.fd
 File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
 )
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 103.
+(Font)              scaled to size 9.60007pt on input line 103.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 103.
+(Font)              scaled to size 6.72005pt on input line 103.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 103.
+(Font)              scaled to size 4.80003pt on input line 103.
 LaTeX Font Info:    Trying to load font information for OMX+mdbch on input line 103.
  (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign/mdbch\omxmdbch.fd
 File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
 )
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 103.
+(Font)              scaled to size 9.60007pt on input line 103.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 103.
+(Font)              scaled to size 6.72005pt on input line 103.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 103.
+(Font)              scaled to size 4.80003pt on input line 103.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 103.
+(Font)              scaled to size 9.60007pt on input line 103.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 103.
+(Font)              scaled to size 6.72005pt on input line 103.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 103.
+(Font)              scaled to size 4.80003pt on input line 103.
 LaTeX Font Info:    Trying to load font information for MDA+mdbch on input line 103.
  (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign/mdbch\mdamdbch.fd
 File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
 )
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 103.
+(Font)              scaled to size 9.60007pt on input line 103.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 103.
+(Font)              scaled to size 6.72005pt on input line 103.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 103.
+(Font)              scaled to size 4.80003pt on input line 103.
 LaTeX Font Info:    Trying to load font information for MDB+mdbch on input line 103.
  (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/mathdesign/mdbch\mdbmdbch.fd
 File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
 )
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 103.
+(Font)              scaled to size 9.60007pt on input line 103.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 103.
+(Font)              scaled to size 6.72005pt on input line 103.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 103.
+(Font)              scaled to size 4.80003pt on input line 103.
 LaTeX Font Info:    Trying to load font information for U+esint on input line 103.
  (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/latex/esint\uesint.fd
 File: uesint.fd 
@@ -1376,8 +1376,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 42.
  (C:\Users\pgraham1\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count508
@@ -1416,12 +1414,12 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \topmargin=0.0pt
 * \headheight=0.0pt
 * \headsep=0.0pt
-* \topskip=12.0pt
+* \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=35.0pt
-* \marginparsep=10.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1430,9 +1428,6 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@mparswitchfalse
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-
-Package todonotes Warning: The length marginparwidth is less than 2cm and will most likely cause issues with the appearance of inserted todonotes. The issue can be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to loading the todonotes package. on input line 42.
 
 Package hyperref Info: Link coloring ON on input line 42.
 (MAIN.out) (MAIN.out)
@@ -1460,63 +1455,21 @@ Package biblatex Info: ... file 'MAIN.bbl' found.
 Package biblatex Info: Reference section=0 on input line 42.
 Package biblatex Info: Reference segment=0 on input line 42.
 LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
-(Font)              scaled to size 11.52008pt on input line 45.
+(Font)              scaled to size 9.60007pt on input line 45.
 LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
-(Font)              scaled to size 16.58891pt on input line 45.
+(Font)              scaled to size 13.82408pt on input line 45.
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
-(Font)              scaled to size 11.52008pt on input line 45.
+(Font)              scaled to size 9.60007pt on input line 45.
  [1
 
 {C:/Users/pgraham1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ly1/texnansi.enc}]
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 23.88496pt on input line 48.
+(Font)              scaled to size 19.91054pt on input line 48.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 23.88496pt on input line 48.
+(Font)              scaled to size 19.91054pt on input line 48.
  (MAIN.toc
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 9.60007pt on input line 1.
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 2.
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 2.
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 2.
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 9.60007pt on input line 2.
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 6.72005pt on input line 2.
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 4.80003pt on input line 2.
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 2.
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 2.
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 2.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 2.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 2.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 2.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 2.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 2.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 2.
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 2.
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 2.
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 2.
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 2.
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 2.
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 2.
 )
 \tf@toc=\write6
 \openout6 = `MAIN.toc'.
@@ -1528,9 +1481,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
 l.48 \maketableofcontents
                           [1]
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 13.82408pt on input line 53.
+(Font)              scaled to size 11.52008pt on input line 53.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 13.82408pt on input line 53.
+(Font)              scaled to size 11.52008pt on input line 53.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 6.72005pt on input line 57.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
@@ -1543,15 +1496,12 @@ File: figures/Ueff.pdf Graphic file (type pdf)
 <use figures/Ueff.pdf>
 Package pdftex.def Info: figures/Ueff.pdf  used on input line 94.
 (pdftex.def)             Requested size: 187.89912pt x 159.75902pt.
-[2] [3 <./figures/Ueff.pdf>]
-Overfull \hbox (42.31282pt too wide) detected at line 132
+[2] [3 <./figures/Ueff.pdf>] [4]
+Overfull \hbox (47.65045pt too wide) detected at line 132
 []
  []
 
-[4] [5] [6] [7]
-LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
-(Font)              scaled to size 9.60007pt on input line 185.
- [8] (MAIN.aux)
+[5] [6] [7] [8] [9] (MAIN.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -1563,17 +1513,17 @@ Package logreq Info: Writing requests to 'MAIN.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48469 strings out of 475248
- 1102508 string characters out of 5756398
- 1982285 words of memory out of 5000000
- 69155 multiletter control sequences out of 15000+600000
- 623266 words of font info for 153 fonts, out of 8000000 for 9000
+ 48422 strings out of 475248
+ 1101845 string characters out of 5756398
+ 1983259 words of memory out of 5000000
+ 69117 multiletter control sequences out of 15000+600000
+ 605380 words of font info for 110 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 114i,17n,131p,820b,1162s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 114i,17n,131p,1166b,1162s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\pgraham1\AppData\Local\MiKTeX\fonts/pk/ljfour/public/esint/dpi600\esint10.pk><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/mathdesign/mdbch/md-chr7t.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/mathdesign/mdbch/md-chr7v.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/mathdesign/mdbch/md-chr7y.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/mathdesign/mdbch/md-chr8t.pfb><C:/Users/pgraham1/AppData/Local/Programs/MiKTeX/fonts/type1/mathdesign/mdbch/md-chri7m.pfb>
-Output written on MAIN.pdf (9 pages, 138317 bytes).
+Output written on MAIN.pdf (10 pages, 142547 bytes).
 PDF statistics:
- 183 PDF objects out of 1000 (max. 8388607)
- 23 named destinations out of 1000 (max. 500000)
+ 187 PDF objects out of 1000 (max. 8388607)
+ 24 named destinations out of 1000 (max. 500000)
  122 words of extra memory for PDF output out of 10000 (max. 10000000)
 
