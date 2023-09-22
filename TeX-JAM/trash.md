@@ -44,3 +44,6 @@ Finally, using the expression for $y$,
 We want to relate the value of $Q$ to $y_B$, $x_B$. By "conservation of the energy" $0 = \frac{1}{2}\dot{x}(y_B)^2 - g y_B \implies \dot{x}(y_B) = \pm \sqrt{2g y_B}$. Because $x_B > x_A$, the particle will reach $x_B$ with positive velocity ($\dot{x}(y_B) = \sqrt{2g y_B}$). At $x_B, y_B$, the quantity $Q$ can be expressed as 
 
 Going further, setting $y_A = 0$ we have an initial angle $\theta_A = -\pi$ (setting the expression for $y$ to $0$) and $C =  0$ implies a reference $x_A = \dfrac{\pi}{gQ^2}$.
+
+
+Consider the case $E=0$ and $\omega = \omega_0$ where the particle's history is a circular motion at fixed height. The energy $E_0$ is then the sum of Kinetic $\frac12 m (\rho \omega)^2$ and potential $m g \alpha \rho^2 = \frac12 m \omega_0^2 \rho^2  = \frac12 m \omega^2 \rho^2$ so the missing half of motor energy is due to maintaining the particle's height in this case. 
