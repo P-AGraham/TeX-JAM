@@ -47,12 +47,73 @@
 % Make table of contents
 \maketableofcontents
 
+\footnotesize{
 % Assignment starts here ----------------------------
 \section{Relativistic composition of velocities}
-\subsection{1+1d} 
-Consider a particle observed with velocity $v$ (resp. $v'$) in a reference frame $K$ (resp. $K'$). 
-\subsection{}
-\subsection{}
+\subsection{Addition of velocities in (1+1d)} 
+Consider a (1+1d) particle observed with velocity $v$ (resp. $v'$) in a reference frame $K$ (resp. $K'$). Frame $K'$ is moving relative to frame $K$ with velocity $u$ ($-c<u<c$). We are given that the velocity $v'$ is related to $v$ and $u$ by 
+\begin{align*}
+    v' = \dfrac{\pm_1 v \pm_2 u}{1 \pm_3 \frac{uv}{c^2}}.
+\end{align*}
+To make the signs in this expression precise, we fisrt notice that if $u = 0$, frame $K$ and $K'$ coincide and the observed velocities $v$ and $v'$ coincide too. with the expression for $v'$, we have
+\begin{align*}
+   v = v' = \dfrac{\pm_1 v \pm_2 0}{1 \pm_3 \frac{(0)v}{c^2}} = \pm_1 v. \iff (\pm_1 \to +)
+\end{align*}
+Second, we notice that if the particle is moving in $K$ at a velocity $ -c < v = u < c$ matching the $K'$ relative velocity, then it should be still in $K'$. We have 
+\begin{align*}
+    0 = v' = \dfrac{v \pm_2 v}{1 \pm_3 \frac{v^2}{c^2}} \iff v \pm_2 v = 0 \quad \left\{1 \pm_3 \frac{v^2}{c^2} \neq 0 \ \forall v\right\} \iff (\pm_2 \to -)
+\end{align*}
+We finally us the fact that a particle moving at the speed of light in $K$ should again move at the speed of light in $K'$ whatever $u$ is. This leads to
+\begin{align*}
+    c = v' = \dfrac{c - u}{1 \pm_3 \frac{u}{c}} = c \dfrac{c - u}{c \pm_3 u}, \ \forall u  \iff c \pm_3 u = c - u, \ \forall u \iff \pm_3 \to - 
+\end{align*}
+with the last implication holding because only one function identically equal to $c-u$, $\forall u$ with $-c<u<c$ and it is $c-u$. With the precise sign, addition of velocity is expressed as 
+\begin{align*}
+    v' = \dfrac{v - u}{1 - \frac{uv}{c^2}}.
+\end{align*}
+
+\subsection{Addition of velocities in (3+1d)}
+As a generalisation of the previous addition of velocities, we respectively upgrade $u, v, v'$ to the 3-vectors $\textbf{u}, \textbf{v}, \textbf{v}'$. To otain the form of $\textbf{v}'$, as a function of $\textbf{u}, \textbf{v}$, we consider small time intervals $\delta t, \delta t'$  during which the particle undergoes displacements $\delta \textbf{x} = \textbf{v} \delta t, \delta \textbf{x}' = \textbf{v}' \delta t'$ in $K$ and $K'$ respectively. Combining temporal displacements $\delta t, \delta t'$ with 3-vector displacement, we form the 4-vectors $\delta x^{\mu}, \delta x^{\mu'}$. Taking $K'$ to be related to $K$ only by a boost at velocity $\textbf{u}$ (no rotations), $\delta x^{\mu}$ and $\delta x^{\mu'}$ are related by $\delta x^{\mu'} = \Lambda_{\ \nu}^{\mu} \delta x^{\nu}$ (column index is contracted and a component is producted for each line: this is a matrix multiplication). To make an explicity calculation, it is good to decompose the spatial displacements in a $\parallel$ component to $\mathbf{u}$ (denoted $\delta  \textbf{x}_{\parallel}, \delta  \textbf{x}_{\parallel}'$) and a complementary $\perp$ component (denoted $\delta  \textbf{x}_{\perp}, \delta  \textbf{x}_{\perp}'$). We have that the $\perp$ component is left unchanged by the lorentz boost ($\delta \textbf{x}_{\perp}' = \delta \textbf{x}_{\perp}$), and we restrict our analysis of the boost transformation to the $\parallel$+time subspace. Taking $\textbf{x}_{\parallel} = x_{\parallel} \textbf{u}/u$ (with $u = |\textbf{u}|$), we can write the following matrix representation of the boost: 
+\begin{align*}
+    \begin{pmatrix}
+        c\delta t'\\
+        \delta x_\parallel'
+    \end{pmatrix}
+    =\gamma(u)
+    \begin{pmatrix}
+        1  & -u/c\\
+        -u/c & 1 
+    \end{pmatrix}
+    \begin{pmatrix}
+        c\delta t\\
+        \delta x_\parallel
+    \end{pmatrix}
+    = \begin{pmatrix}
+        c\gamma(u) (\delta t - u \delta x_\parallel/c^2)\\
+        \gamma(u) (\delta x_\parallel - u \delta t)
+    \end{pmatrix}
+\end{align*}
+where $\gamma(u) = (1-\frac{u^2}{c^2})^{-1/2}$ is the Lorentz factor associated to the boost. The $-$ signs ensure that if $|\mathbf{v}| = u$, the spatial displacement $\delta \mathbf{x}_\parallel'$ is $0$. This is also a manifestation of the fact the coordinates of 4-vectors transform as the transpose inverse of the 4-basis they are expressed in (making sue the abstract 4-vector remains the same). 
+
+By definition of the spacial diplacements, we have the following expressions relating the parallel velocities denoted $\textbf{v}_\parallel', \textbf{v}_\parallel$ and perpendicular velocities denoted $\textbf{v}_\perp', \textbf{v}_\perp$: 
+\begin{align*}
+    &\textbf{v}_\parallel' = \dfrac{\delta \mathbf{x}_\parallel'}{\delta t'} = \dfrac{\gamma(u)}{\gamma(u)} \dfrac{\delta x_\parallel - u \delta t}{\delta t - u \delta x_\parallel/c^2} \dfrac{\mathbf{u}}{u} = \dfrac{\frac{\delta x_\parallel}{\delta t} \frac{\mathbf{u}}{u} - \mathbf{u}}{1 - u \frac{\delta x_\parallel}{\delta t}/c^2} = \dfrac{\mathbf{v}_\parallel - \mathbf{u}}{1 - \mathbf{u} \cdot \mathbf{v}/c^2},\\
+    &\textbf{v}_\perp' =\gamma(u)^{-1} \frac{\delta \mathbf{x}_\perp'}{\delta t'} = \gamma(u)^{-1} \dfrac{\delta \mathbf{x}_\perp}{\delta t - u \delta x_\parallel/c^2} = \gamma(u)^{-1} \dfrac{\frac{\delta \mathbf{x}_\perp}{\delta t }}{1 - u \frac{\delta x_\parallel}{\delta t}/c^2} = \gamma(u)^{-1}\dfrac{\textbf{v}_\perp}{1 - \textbf{u} \cdot \textbf{v}/c^2}.
+\end{align*}
+We notice that $\gamma(u)$ doesn't show up in the transformation of $\textbf{v}_\parallel'$ and that is because of the canceling effects of time dilation reducing the travel time and length contraction reducing the travelled distance in the $K'$ frame. This cancelation is not observed in the $\perp$ direction because only time dilation is effective in this direction: the perpendicular motion of the particle is slowed down by the boost. An interesting thing is that derivations of the time dilation effect rely on moving light clocks where light is bounced in a direction orthogonal to the motion. In such thought experiments the direction of propagation ensures only time dilation plays a role. 
+
+To express $\textbf{v}$ as a function  of $\textbf{v}'$, we can use the fact $\textbf{v}$ is related to $\textbf{v}'$ by the inverse of the boost we considered (associated to the $-\textbf{u}$ relative velocity of $K$ with respect to $K'$). We have 
+\begin{align*}
+    &\textbf{v}_\parallel = \dfrac{\mathbf{v}_\parallel' + \mathbf{u}}{1 + \mathbf{u} \cdot \mathbf{v}'/c^2} \quad \text{and}\quad \textbf{v}_\perp = \gamma(u)^{-1}\dfrac{\textbf{v}'_\perp}{1 + \textbf{u} \cdot \textbf{v}'/c^2}.
+\end{align*}
+
+\subsection{Application to light-beams}
+The 3-velocity of a light-beam can be decomposed in directions $\parallel$ and $\perp$ to $\textbf{u}$ as $\textbf{v} = c \cos(\theta) \frac{\textbf{u}}{u} + \textbf{v}_{\perp}$ in $K$ and as $\textbf{v}' = c \cos(\theta') \frac{\textbf{u}}{u} + \textbf{v}_{\perp}'$ in $K'$. Using the result found in B, we get the relation 
+\begin{align*}
+    c \cos(\theta) \frac{\textbf{u}}{u} = \dfrac{c \cos(\theta') \frac{\textbf{u}}{u} + u\frac{\textbf{u}}{u}}{1 + u \cos(\theta')/c} \iff \cos(\theta) = \dfrac{c \cos(\theta') + \frac{u}{c}}{1 + u \cos(\theta')/c}.
+\end{align*}
+The change in angle can be seen by looking at a particular observer at rest in $K'$ that recives the light beam. This observer is moving in $K$, but all observers agree that light is received so the light beam must be moving in a different direction in $K$. 
+
 \subsection{}
 \subsection{}
 \subsection{}
@@ -66,7 +127,7 @@ Consider a particle observed with velocity $v$ (resp. $v'$) in a reference frame
 \subsection{}
 
 \section{Acknowledgement}
-
+}
 \makereferences
 %-------------------------------------------------------
 
